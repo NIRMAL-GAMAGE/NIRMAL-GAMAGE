@@ -31,7 +31,7 @@
 <a href="#"><img src="https://img.icons8.com/color/48/angularjs.png"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
 
 ### Databases & Tools
 <a href="#"><img src="https://img.icons8.com/color/48/mongodb.png"/></a>
