@@ -1,4 +1,4 @@
-#  Hi, I'm [Kawdhitha Nirmal](https://dev.dubhub.lk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+#  Hi, I'm [Nirmal Gamage](https://dev.dubhub.lk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/TecnoDeVolper2008/TecnoDeVolper2008/refs/heads/main/Gif/Ghost.gif" width="200" alt="Developer Animation">
@@ -57,7 +57,7 @@
 ## 📊 Stats
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAWDHITHA-NIRMAL&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIRMAL-GAMAGE&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect with Me
