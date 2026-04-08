@@ -65,12 +65,12 @@
 <a href="https://dev.sapelaweddo.site" target="_blank"><img src="https://img.icons8.com/fluency/48/web.png" alt="Website"/></a>
 <a href="mailto:codexsldev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email"/></a>
 <a href="https://t.me/Codex_dev" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
-<a href="https://github.com/KAWDHITHA-NIRMAL" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
+<a href="https://github.com/NIRMAL-GAMAGE" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
 
 ---
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=KAWDHITHA-NIRMAL&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NIRMAL-GAMAGE&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 
